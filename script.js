@@ -50,3 +50,5 @@ if (typeanimal3 === answer3){
 }
 
 }
+
+// make it count Jazz
